@@ -1,0 +1,19 @@
+h1 {
+
+}
+
+img{
+    width: 200px;
+    height: 250px;
+}
+#logo{
+    width: 32px;
+    height: 32px;
+}
+table,tr,th,td{
+border: 1px solid;
+}
+#message{
+    display: inline-block;
+    vertical-align: top;
+}
